@@ -1,5 +1,3 @@
-import { nanoid } from 'nanoid';
-
 const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   console.log('options', options);
   return (
